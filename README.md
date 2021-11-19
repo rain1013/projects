@@ -1,1 +1,1 @@
-# SC Projects
+# stanCode Projects
