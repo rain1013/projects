@@ -1,1 +1,1 @@
-# stanCode Projects
+# Projects
